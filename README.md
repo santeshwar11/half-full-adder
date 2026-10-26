@@ -1,4 +1,4 @@
-# Half Adder and Full Adder in Verilog
+<img width="1920" height="1080" alt="full adder synthesis" src="https://github.com/user-attachments/assets/6d7f1746-e94c-496c-abb8-ce9547ba2187" /># Half Adder and Full Adder in Verilog
 
 Project 2 in my Verilog/FPGA project series. Each adder is written in two modeling styles (gate-level and dataflow), and a self-checking testbench verifies both against the expected result.
 
@@ -73,13 +73,13 @@ Project 2 in my Verilog/FPGA project series. Each adder is written in two modeli
 PASS: all half adder and full adder tests passed.
 ```
 
-## Waveform
+## Half Adder
+- **Synthesis Schematic:** ![Half Adder Synthesis](half adder synthesis.png)
+- **Waveform:** ![Half Adder Waveform](half adder waveform.png)
 
-![Simulation waveform](docs/waveform.png)
-
-## Schematic
-
-![Elaborated schematic of the full adder](docs/schematic.png)
+## Full Adder
+- **Synthesis Schematic:** ![Full Adder Synthesis](full adder synthesis.png)
+- **Waveform:** ![Full Adder Waveform](full adder waveform.png)
 
 ## Tools
 
