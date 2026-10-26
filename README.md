@@ -75,7 +75,7 @@ PASS: all half adder and full adder tests passed.
 
 ## Half Adder
 - **Synthesis Schematic:** ![Half Adder Synthesis]("half adder synthesis.png")
-- **Waveform:** ![Half Adder Waveform]("half adder waveform.png")
+- **Waveform:** ![Half Adder Waveform]((https://1drv.ms/i/c/e43ba3fba607784c/IQBnbaN8SQ2KTqeTmLdvCXAbAQLCFv5RIKfoNwghfEMFW6Y?e=9bS4lR)
 
 ## Full Adder
 - **Synthesis Schematic:** ![Full Adder Synthesis]("full adder synthesis.png")
