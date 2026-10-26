@@ -74,12 +74,12 @@ PASS: all half adder and full adder tests passed.
 ```
 
 ## Half Adder
-- **Synthesis Schematic:** ![Half Adder Synthesis]("half adder synthesis.png")
+- **Synthesis Schematic:** ![[Half Adder Synthesis]("half adder synthesis.png")](https://1drv.ms/i/c/e43ba3fba607784c/IQBVqTDXxZmTTZVHWpBAujh9Afa42F5O-aEVXqlDw7oU12A?e=ZYZntJ)
 - **Waveform:** ![Half Adder Waveform]((https://1drv.ms/i/c/e43ba3fba607784c/IQBnbaN8SQ2KTqeTmLdvCXAbAQLCFv5RIKfoNwghfEMFW6Y?e=9bS4lR)
 
 ## Full Adder
-- **Synthesis Schematic:** ![Full Adder Synthesis]("full adder synthesis.png")
-- **Waveform:** ![Full Adder Waveform]("full adder waveform.png")
+- **Synthesis Schematic:** ![Full Adder Synthesis](https://1drv.ms/i/c/e43ba3fba607784c/IQCpFzrFaSWKQJElQNWQ7oc8AZ8XmvTjRju7tjMelmnad7A?e=aw84lh)
+- **Waveform:** ![Full Adder Waveform](https://1drv.ms/i/c/e43ba3fba607784c/IQC5DcPWzsKaSLI-ZN8ovsmBAWrKKlbRZcmKP2_VKmsrQNM?e=9VlN3S)
 
 ## Tools
 
