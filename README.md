@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="full adder synthesis" src="https://github.com/user-attachments/assets/6d7f1746-e94c-496c-abb8-ce9547ba2187" /># Half Adder and Full Adder in Verilog
+ /># Half Adder and Full Adder in Verilog
 
 Project 2 in my Verilog/FPGA project series. Each adder is written in two modeling styles (gate-level and dataflow), and a self-checking testbench verifies both against the expected result.
 
